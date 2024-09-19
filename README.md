@@ -10,5 +10,4 @@ I used Visual Studio Code to write this program. I used the programming language
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://support.google.com/youtube/answer/57407)
